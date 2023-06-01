@@ -1,7 +1,7 @@
 {
   "license": "MIT",
   "name": "@duodeka/use-captain-hook",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "useCaptainHook",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
