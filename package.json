@@ -1,0 +1,28 @@
+{
+  "license": "MIT",
+  "name": "@duodeka/use-captain-hook",
+  "version": "1.0.0",
+  "description": "useCaptainHook",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duodeka/use-captain-hook.git"
+  },
+  "keywords": [
+    "Captain",
+    "Hook",
+    "Morgan"
+  ],
+  "author": "duodeka",
+  "bugs": {
+    "url": "https://github.com/duodeka/use-captain-hook/issues"
+  },
+  "homepage": "https://github.com/duodeka/use-captain-hook#readme",
+  "devDependencies": {
+    "typescript": "^5.1.3"
+  }
+}
